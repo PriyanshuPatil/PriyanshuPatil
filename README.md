@@ -8,21 +8,20 @@
 
 - 🌱 I’m currently learning **React,NodeJS,Redux**
 
-- 👨‍💻 All of my projects are available at [https://priyanshupatil.github.io/](https://priyanshupatil.github.io/)
+- 👨‍💻 All of my projects are available at  <a href="https://drive.google.com/file/d/1BJEbGf9EUvbjV5OwCTlqJqKcSgVc_MlD/view?usp=sharing](https://priyanshupatil.github.io/)" target="_blank">Portfolio</a>
 
 - 📫 How to reach me **pantuugurjar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BJEbGf9EUvbjV5OwCTlqJqKcSgVc_MlD/view?usp=sharing](https://drive.google.com/file/d/1BJEbGf9EUvbjV5OwCTlqJqKcSgVc_MlD/view?usp=sharing)
+- 📄 Know about my experiences 
+ <a href="https://drive.google.com/file/d/1BJEbGf9EUvbjV5OwCTlqJqKcSgVc_MlD/view?usp=sharing" target="
+_blank">Resume</a>
 </br>
-</br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priyanshu2710_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshupatil" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyanshu-patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshupatil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/uipriyanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshupatil" height="30" width="40" /></a>
-</p>
+<br> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-</br>
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)]([https://www.facebook.com/kashif.jamal.581](https://twitter.com/priyanshu2710_))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kashif-jamal-290814242/](https://www.linkedin.com/in/priyanshu-patil/))
+
 </br>
 <h3 align="left">Languages and Tools: </h3>
 <div align="center"> 
@@ -49,6 +48,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshupatil&theme=dark&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Kashif Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshupatil&theme=react-dark&hide_border=true" /></a>
+
+
+<br> 
 
 </br>
 </br>
