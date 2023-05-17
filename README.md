@@ -19,8 +19,8 @@ _blank">Resume</a>
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)]([https://www.facebook.com/kashif.jamal.581](https://twitter.com/priyanshu2710_))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kashif-jamal-290814242/](https://www.linkedin.com/in/priyanshu-patil/))
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/priyanshu2710_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/kashif-jamal-290814242](https://www.linkedin.com/in/priyanshu-patil/)](https://www.linkedin.com/in/priyanshu-patil/))
 
 </br>
 <h3 align="left">Languages and Tools: </h3>
